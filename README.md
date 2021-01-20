@@ -1,2 +1,2 @@
 # CANOO EV App Redesign
-![Canoo App Remake](https://github.com/MattMarquise/CANOO-ev-app-redesign/blob/main/canooappremake.gif =250x250)
+![Canoo App Remake](https://github.com/MattMarquise/CANOO-ev-app-redesign/blob/main/canooappremake.gif)
