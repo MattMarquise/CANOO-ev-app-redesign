@@ -1,6 +1,6 @@
-# CANOO EV App Redesign
+# CANOO EV In-Car App - Redesign
 
-NOTE: Best viewed on mobile but also neat on desktop.
+NOTE: Best viewed on mobile, but also neat on desktop.
 
 
 [EXPLORE DEMO](https://matthewmarquise.com/canooclone.html)
